@@ -1,5 +1,5 @@
 pyproject.toml
-pipeline_v1.bin
+model_C=1.0.bin
 main.py
 .python-version
 
