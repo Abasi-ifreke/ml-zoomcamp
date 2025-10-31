@@ -6,7 +6,7 @@ from typing import Literal
 
 app = FastAPI(title="prediction application")
 
-output_file = 'pipeline_v1.bin'
+output_file = 'pipeline_v2.bin'
 
 
 # Defining request
